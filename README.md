@@ -16,4 +16,4 @@ Go go go go!
 
 Commands:
 	^owo
-	^owoize <@username>READ
+	^owoize <@username>
