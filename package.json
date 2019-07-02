@@ -1,0 +1,10 @@
+{
+  "author": "sp",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "description": "owo mr gorbachev tear down this wowl",
+  "main": "bot.js",
+  "name": "wonald weagan",
+  "version": "1.0.1"
+}
